@@ -73,6 +73,7 @@ PETALINUX_APPS_FOLDER=../../petalinux/apps
 PETALINUX_CONFIGS_FOLDER=../../petalinux/configs
 PETALINUX_PROJECTS_FOLDER=../../petalinux/projects
 PETALINUX_SCRIPTS_FOLDER=../../petalinux/scripts
+
 START_FOLDER=`pwd`
 TFTP_HOST_FOLDER=/tftpboot
 
